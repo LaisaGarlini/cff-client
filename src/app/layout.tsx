@@ -27,7 +27,7 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="pt-br" className="light">
-            <body className={`${firaSans.variable} ${firaMono.variable} antialiased`}>
+            <body className={`${firaSans.variable} ${firaMono.variable} antialiased overflow-hidden`}>
                 {children} <Toaster expand={true} />
             </body>
         </html>

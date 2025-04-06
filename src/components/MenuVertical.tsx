@@ -31,7 +31,7 @@ const VerticalMenu = () => {
 
                     <MenuVerticalItem href="/cte_consulta" icon={faTruckFast} title="Consultar CT-e's" />
 
-                    <MenuVerticalItem href="/importar_csv" icon={faFileCode} title="Importar Arquivo XML" />
+                    <MenuVerticalItem href="/importar_arquivo" icon={faFileCode} title="Importar Arquivo XML" />
                 </div>
 
                 <div className="mt-auto">

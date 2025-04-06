@@ -97,7 +97,7 @@ export default function Home() {
 
                     <Card className="md:col-span-2 lg:col-span-3">
                         <CardHeader>
-                            <CardTitle>Resumo Mensal</CardTitle>
+                            <CardTitle>Resumo do período</CardTitle>
                         </CardHeader>
                         <CardContent className="h-80 flex items-center justify-center bg-gray-100 rounded-md">
                             <p className="text-gray-500">Gráfico de resumo mensal será exibido aqui</p>
